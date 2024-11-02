@@ -66,4 +66,4 @@ For questions or suggestions, feel free to reach out:
 
 ## About `ranidb`
 
-`ranidb` is a lightweight and fast database library used in this project to handle data storage efficiently. It provides a simple interface for storing and retrieving data, making it ideal for educational projects and small-scale applications. For more information, visit the [ranidb GitHub repository](https://github.com/ranidb/ranidb).
+`ranidb` is a lightweight and fast database library used in this project to handle data storage efficiently. It provides a simple interface for storing and retrieving data, making it ideal for educational projects and small-scale applications. For more information, visit the [ranidb GitHub repository](https://github.com/waseeld/ranidb).
