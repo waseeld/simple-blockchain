@@ -1,4 +1,4 @@
-# Simple Blockchain ( Under Devloping )
+# Simple Blockchain (Under Development)
 
 A simple blockchain implementation in Node.js (JavaScript) for educational purposes. This project demonstrates the fundamental concepts of blockchain technology, including blocks, chains, and consensus mechanisms.
 
@@ -10,17 +10,19 @@ A simple blockchain implementation in Node.js (JavaScript) for educational purpo
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
+- [About `ranidb`](#about-ranidb)
 
 ## Introduction
 
-This project is a basic implementation of a blockchain, designed to help you understand how blockchains work. It includes features such as block creation, chain validation, and a simple proof-of-work system.
+This project is a basic implementation of a blockchain, designed to help you understand how blockchains work. It includes features such as block creation, chain validation, and a simple proof-of-work system. Additionally, it utilizes the `ranidb` library for efficient data storage and retrieval.
 
 ## Features
 
 - Create and add blocks to the blockchain
 - Validate the integrity of the blockchain
 - Simple proof-of-work algorithm
-- [Any other features specific to your project]
+- Utilizes `ranidb` for lightweight and fast data storage
 
 ## Installation
 
@@ -59,5 +61,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto:dddwas12@gmail.com)
+- **Email:** [dddwas12@gmail.com](mailto:dddwas12@gmail.com)
 - **GitHub Issues:** [Create an issue](https://github.com/waseeld/simple-blockchain/issues)
+
+## About `ranidb`
+
+`ranidb` is a lightweight and fast database library used in this project to handle data storage efficiently. It provides a simple interface for storing and retrieving data, making it ideal for educational projects and small-scale applications. For more information, visit the [ranidb GitHub repository](https://github.com/ranidb/ranidb).
